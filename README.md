@@ -44,7 +44,6 @@
 📍 **University UNOPAR of Minas Gerais** - Belo Horizonte, Brazil
 
 ## Experience
-
    
 <img align="right" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 <img align="right" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -52,7 +51,7 @@
 <img align="right" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />  
 <img align="right" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-
+</br>
 - 👨‍💻 **Developement Front-End Junior**\
 📆 nov/2022 - moment\
 📍 **radio Itatiaia** - Belo Horizonte/MG, Brazil
