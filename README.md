@@ -8,15 +8,9 @@
 </p>
 
 <p align='center'>
-<a href="https://github.com/LarissaQuirino/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?LarissaQuirino=anuraghazra&repo=github-readme-stats&theme=nightowl" />
-</a>
-<a href="https://github.com/LarissaQuirino/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?LarissaQuirino=anuraghazra&repo=convoychat&theme=nightowl" />
-</a>
-</br>
-</br>
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LarissaQuirino&theme=tokyonight">  
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LarissaQuirino&theme=tokyonight"> 
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LarissaQuirino&theme=tokyonight">
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LarissaQuirino&theme=tokyonight&utcOffset=8">
 </p>
  
 <p align='center'>
