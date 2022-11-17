@@ -8,9 +8,6 @@
 </p>
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LarissaQuirino&theme=tokyonight">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LarissaQuirino&theme=tokyonight"> <img src=" http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LarissaQuirino&theme=tokyonight">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LarissaQuirino&theme=tokyonight)"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LarissaQuirino&theme=tokyonight&utcOffset=8">
-
 
 <p align='center'>
   
@@ -48,6 +45,7 @@
 
 ## Experience
 
+   
 <img align="right" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 <img align="right" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
