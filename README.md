@@ -7,7 +7,7 @@
   A front end developer from Brazil
 </p>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LarissaQuirino&theme=tokyonight">
+<img align=”middle” src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LarissaQuirino&theme=tokyonight">
 
 <p align='center'>
   
@@ -69,7 +69,6 @@
 <img align="right" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
 
 - 👨‍💻 **Devops Development Apprentice**\
 📆 2021 - jul/2022\
