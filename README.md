@@ -7,9 +7,9 @@
   A front end developer from Brazil
 </p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LarissaQuirino&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LarissaQuirino&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LarissaQuirino&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LarissaQuirino&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LarissaQuirino&theme=tokyonight&utcOffset=8)
+![align='center'](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LarissaQuirino&theme=tokyonight)
+![align='center'](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LarissaQuirino&theme=tokyonight) ![align='center'](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LarissaQuirino&theme=tokyonight)
+![align='center'](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LarissaQuirino&theme=tokyonight) ![align='center'](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LarissaQuirino&theme=tokyonight&utcOffset=8)
 
 
 <p align='center'>
