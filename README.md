@@ -29,7 +29,7 @@
 
 
 <p align='center'>
-  📫 How to reach me: <a href=''>larissa.fquirino@proton.me</a>
+  📫 How to reach me: <a href=''>larissa.fquirino@gmail.com</a>
 </p>
 
 
