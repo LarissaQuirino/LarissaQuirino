@@ -7,10 +7,19 @@
   A front end developer from Brazil
 </p>
 
-<img align=”middle” src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LarissaQuirino&theme=tokyonight">
-
 <p align='center'>
-  
+<a href="https://github.com/LarissaQuirino/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=nightowl" />
+</a>
+<a href="https://github.com/LarissaQuirino/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat&theme=nightowl" />
+</a>
+</br>
+</br>
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LarissaQuirino&theme=tokyonight">  
+</p>
+ 
+<p align='center'>
   <a href="https://www.linkedin.com/in/larissa-ferreira-quirino">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -26,12 +35,6 @@
   <img src="https://img.shields.io/badge/AMD-Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
 </p>
-
-
-<p align='center'>
-  📫 How to reach me: <a href=''>larissa.fquirino@gmail.com</a>
-</p>
-
 
 <details>
   <summary>📃 Resume</summary>
