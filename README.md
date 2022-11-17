@@ -9,10 +9,10 @@
 
 <p align='center'>
 <a href="https://github.com/LarissaQuirino/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=nightowl" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?LarissaQuirino=anuraghazra&repo=github-readme-stats&theme=nightowl" />
 </a>
 <a href="https://github.com/LarissaQuirino/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat&theme=nightowl" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?LarissaQuirino=anuraghazra&repo=convoychat&theme=nightowl" />
 </a>
 </br>
 </br>
