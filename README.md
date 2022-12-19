@@ -37,7 +37,7 @@
 ## Education
 
 - 📖 **Analysis and systems development**\
-📆 2022 - 2024\
+📆 2022 - 2023\
 📍 **University UNOPAR of Minas Gerais** - Belo Horizonte, Brazil
 
 ## Experience
