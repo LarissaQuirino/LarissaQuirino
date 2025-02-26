@@ -4,7 +4,7 @@
 </h1>
 
 <p align='center'>
-  A front end developer from Brazil
+  A full-stack developer and PO from Brazil
 </p>
 
 <p align='center'>
