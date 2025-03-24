@@ -45,11 +45,6 @@
 📍 **Pontifical Catholic University of Minas Gerais** - Belo Horizonte, Brazil
 
 ## Experience
-   
-<img align="right" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-<img align="right" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 - 👨‍💻 **Developement Front-End Pleno and Product Owner**\
 📆 jan/2024 - moment\
@@ -58,19 +53,28 @@
 <img align="right" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
 <img align="right" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" />
 <img align="right" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 - 👨‍💻 **Developement Front-End Junior**\
 📆 nov/2022 - jan/2024\
 📍 **radio Itatiaia** - Belo Horizonte/MG, Brazil
+
+<img align="right" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+<img align="right" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+- 👨‍💻 **Technical Support Analyst**\
+📆 jul/2022 - nov/2022\
+📍 **TOTVS** - Belo Horizonte/MG, Brazil
 
 <img align="right" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 <img align="right" src="https://aleen42.github.io/badges/src/google_plus.svg" />
 
-- 👨‍💻 **Technical Support Analyst**\
-📆 jul/2022 - nov/2022\
+- 👨‍💻 **Devops Development Apprentice**\
+📆 2021 - jul/2022\
 📍 **TOTVS** - Belo Horizonte/MG, Brazil
 
 <img align="right" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
@@ -78,9 +82,5 @@
 <img align="right" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-
-- 👨‍💻 **Devops Development Apprentice**\
-📆 2021 - jul/2022\
-📍 **TOTVS** - Belo Horizonte/MG, Brazil
 
 </details>
