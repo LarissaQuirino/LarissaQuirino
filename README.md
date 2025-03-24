@@ -67,7 +67,7 @@
 <img align="right" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-<img align="right" src="https://aleen42.github.io/badges/src/google_plus.svg" />
+<img align="right" src="https://img.shields.io/badge/JIRA_Service_Desk-Experienced-yellowgreen" />
 
 - 👨‍💻 **Technical Support Analyst**\
 📆 jul/2022 - nov/2022\
