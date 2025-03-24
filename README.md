@@ -40,6 +40,10 @@
 📆 2022 - 2023\
 📍 **University UNOPAR of Minas Gerais** - Belo Horizonte, Brazil
 
+- 📖 **MBA Software Engineering**\
+📆 2025 - 2026\
+📍 **Pontifical Catholic University of Minas Gerais** - Belo Horizonte, Brazil
+
 ## Experience
    
 <img align="right" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
@@ -47,8 +51,17 @@
 <img align="right" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
+- 👨‍💻 **Developement Front-End Pleno and Product Owner**\
+📆 jan/2024 - moment\
+📍 **Accon Tech By Seidor** - Belo Horizonte/MG, Brazil
+
+<img align="right" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
+<img align="right" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" />
+<img align="right" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+
 - 👨‍💻 **Developement Front-End Junior**\
-📆 nov/2022 - moment\
+📆 nov/2022 - jan/2024\
 📍 **radio Itatiaia** - Belo Horizonte/MG, Brazil
 
 <img align="right" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
